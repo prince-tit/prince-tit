@@ -1,4 +1,5 @@
 ## Hi there 👋
+![drawing](https://4595-152-59-147-101.ngrok-free.app/log/blabla5)
    <img hidden src="https://4595-152-59-147-101.ngrok-free.app/log/blabla2">
  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,jquery,js,ts,go,rust,terraform,threejs">
 <!--
